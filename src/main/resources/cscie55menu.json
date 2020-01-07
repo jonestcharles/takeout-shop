@@ -1,0 +1,67 @@
+[ {
+  "name" : "Enchiladas",
+  "vegetarian" : true,
+  "calories" : 800,
+  "type" : "OTHER",
+  "menu" : null
+}, {
+  "name" : "Pozole",
+  "vegetarian" : false,
+  "calories" : 435,
+  "type" : "MEAT",
+  "menu" : null
+}, {
+  "name" : "Tlacoyos",
+  "vegetarian" : true,
+  "calories" : 235,
+  "type" : "OTHER",
+  "menu" : null
+}, {
+  "name" : "Coctel de Camaron",
+  "vegetarian" : false,
+  "calories" : 299,
+  "type" : "FISH",
+  "menu" : null
+}, {
+  "name" : "vegetable dumpling",
+  "vegetarian" : true,
+  "calories" : 25,
+  "type" : "OTHER",
+  "menu" : null
+}, {
+  "name" : "mapo tofu",
+  "vegetarian" : true,
+  "calories" : 377,
+  "type" : "OTHER",
+  "menu" : null
+}, {
+  "name" : "oolong Marinated Chilean Sea Bass",
+  "vegetarian" : true,
+  "calories" : 560,
+  "type" : "FISH",
+  "menu" : null
+}, {
+  "name" : "Szechuan shrimp",
+  "vegetarian" : false,
+  "calories" : 700,
+  "type" : "OTHER",
+  "menu" : null
+}, {
+  "name" : "Xiao Long Bao",
+  "vegetarian" : false,
+  "calories" : 360,
+  "type" : "MEAT",
+  "menu" : null
+}, {
+  "name" : "Butter Chicken",
+  "vegetarian" : false,
+  "calories" : 730,
+  "type" : "MEAT",
+  "menu" : null
+}, {
+  "name" : "Lamb Rogan Josh",
+  "vegetarian" : false,
+  "calories" : 410,
+  "type" : "MEAT",
+  "menu" : null
+} ]

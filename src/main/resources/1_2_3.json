@@ -1,0 +1,13 @@
+[ {
+  "name" : "spagetti sirloin",
+  "vegetarian" : false,
+  "calories" : 1450,
+  "type" : "OTHER",
+  "menu" : null
+}, {
+  "name" : "pasta primavera",
+  "vegetarian" : false,
+  "calories" : 1450,
+  "type" : "OTHER",
+  "menu" : null
+} ]
